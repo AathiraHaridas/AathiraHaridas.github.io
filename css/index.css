@@ -1,0 +1,732 @@
+/* screen - index */
+
+.index {
+  background-color: var(--white);
+  height: 5271px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.index .aathiraharidasuiat-cTZTuB {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 443px;
+  width: 1379px;
+}
+.index .about-me-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 582px;
+  letter-spacing: 3.33px;
+  line-height: 65px;
+  position: absolute;
+  text-align: left;
+  top: 1108px;
+  white-space: nowrap;
+  width: 273px;
+}
+.index .about-me-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 921px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 135px;
+}
+.index .about-me-click-C61RwL {
+  background-color: transparent;
+  height: 699px;
+  left: 0px;
+  position: absolute;
+  top: 1066px;
+  width: 1440px;
+}
+.index .are-you-looking-for-cTZTuB {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 32px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 230px;
+  width: 1379px;
+}
+.index .background-7btTCN {
+  background-color: transparent;
+  height: 508px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 660px;
+}
+.index .behance-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 270px;
+  position: absolute;
+  top: 5135px;
+  width: 68px;
+}
+.index .check-out-my-work-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 1033px;
+  letter-spacing: 2.00px;
+  line-height: 41px;
+  position: absolute;
+  text-align: right;
+  top: 724px;
+  white-space: nowrap;
+  width: 317px;
+}
+.index .combined-shape-Qs6Z5b {
+  background-color: transparent;
+  height: 27px;
+  left: 12px;
+  position: absolute;
+  top: 21px;
+  width: 44px;
+}
+.index .contact-me-C61RwL {
+  background-color: transparent;
+  height: 495px;
+  left: 0px;
+  position: absolute;
+  top: 4510px;
+  width: 1440px;
+}
+.index .contact-me-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1256px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 161px;
+}
+.index .contact-me-cTZTuB {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 547px;
+  letter-spacing: 3.33px;
+  line-height: 65px;
+  position: absolute;
+  text-align: center;
+  top: 35px;
+  white-space: nowrap;
+  width: 345px;
+}
+.index .cover-2-3mwYfM {
+  background-color: transparent;
+  height: 524px;
+  left: -8px;
+  position: absolute;
+  top: -8px;
+  width: 676px;
+}
+.index .cover-daydream-xzVkju {
+  background-color: transparent;
+  height: 508px;
+  left: 120px;
+  position: absolute;
+  top: 89px;
+  width: 660px;
+}
+.index .cover-dekor-BCIrJ0 {
+  background-color: transparent;
+  height: 508px;
+  left: 120px;
+  position: absolute;
+  top: 89px;
+  width: 660px;
+}
+.index .cover-dekor-KkRWmF {
+  background-color: transparent;
+  height: 524px;
+  left: -8px;
+  position: absolute;
+  top: -8px;
+  width: 676px;
+}
+.index .cover-easycook-N3btDR {
+  background-color: transparent;
+  height: 508px;
+  left: 120px;
+  overflow: hidden;
+  position: absolute;
+  top: 89px;
+  width: 660px;
+}
+.index .cover-p-7btTCN {
+  background-color: transparent;
+  height: 524px;
+  left: -8px;
+  position: absolute;
+  top: -8px;
+  width: 676px;
+}
+.index .daydream-SgCZLU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 687px;
+  left: 30px;
+  position: absolute;
+  top: 161px;
+  width: 1378px;
+}
+.index .dekor-SgCZLU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 687px;
+  left: 30px;
+  position: absolute;
+  top: 883px;
+  width: 1378px;
+}
+.index .easy-cook-SgCZLU {
+  background-color: transparent;
+  cursor: pointer;
+  height: 687px;
+  left: 30px;
+  position: absolute;
+  top: 1605px;
+  width: 1378px;
+}
+.index .group-2-C61RwL {
+  background-color: transparent;
+  height: 636px;
+  left: 33px;
+  position: absolute;
+  top: 248px;
+  width: 619px;
+}
+.index .group-dkTSi7 {
+  background-color: transparent;
+  height: 619px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 619px;
+}
+.index .group-zUixHA {
+  background-color: transparent;
+  height: 619px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 619px;
+}
+.index .hi-i-am-aathira-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 690px;
+  letter-spacing: 5.00px;
+  line-height: 98px;
+  position: absolute;
+  text-align: left;
+  top: 381px;
+  white-space: nowrap;
+  width: 696px;
+}
+.index .hire-me-cTZTuB {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 631px;
+  letter-spacing: 2.14px;
+  line-height: 41px;
+  position: absolute;
+  text-align: center;
+  top: 331px;
+  width: 181px;
+}
+.index .i-am-an-ui-designer-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 29px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 1272px;
+  width: 1379px;
+}
+.index .i-am-an-ui-designer-VMr6Om {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 688px;
+  letter-spacing: 2.00px;
+  line-height: 41px;
+  position: absolute;
+  text-align: right;
+  top: 534px;
+  width: 663px;
+}
+.index .line-10-kdhV9R {
+  background-color: transparent;
+  height: 136px;
+  left: 34px;
+  position: absolute;
+  top: -1px;
+  width: 3px;
+}
+.index .line-11-cTZTuB {
+  background-color: transparent;
+  height: 3px;
+  left: 631px;
+  position: absolute;
+  top: 377px;
+  width: 181px;
+}
+.index .line-2-zUixHA {
+  background-color: transparent;
+  height: 396px;
+  left: 392px;
+  position: absolute;
+  top: 59px;
+  width: 185px;
+}
+.index .line-23-C61RwL {
+  background-color: transparent;
+  height: 49px;
+  left: 1019px;
+  position: absolute;
+  top: 743px;
+  width: 4px;
+}
+.index .line-3-zUixHA {
+  background-color: transparent;
+  height: 286px;
+  left: 290px;
+  position: absolute;
+  top: 329px;
+  width: 287px;
+}
+.index .line-34-copy-2-N3btDR {
+  background-color: transparent;
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 39px;
+  width: 1360px;
+}
+.index .line-34-copy-BCIrJ0 {
+  background-color: transparent;
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 39px;
+  width: 1360px;
+}
+.index .line-34-xzVkju {
+  background-color: transparent;
+  height: 3px;
+  left: 19px;
+  position: absolute;
+  top: 39px;
+  width: 1360px;
+}
+.index .line-35-copy-2-N3btDR {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 641px;
+  width: 1352px;
+}
+.index .line-35-copy-BCIrJ0 {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 641px;
+  width: 1352px;
+}
+.index .line-35-xzVkju {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 641px;
+  width: 1352px;
+}
+.index .line-36-copy-2-N3btDR {
+  background-color: transparent;
+  height: 665px;
+  left: 59px;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+.index .line-36-copy-BCIrJ0 {
+  background-color: transparent;
+  height: 665px;
+  left: 59px;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+.index .line-36-xzVkju {
+  background-color: transparent;
+  height: 665px;
+  left: 59px;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+.index .line-37-copy-2-N3btDR {
+  background-color: transparent;
+  height: 682px;
+  left: 1319px;
+  position: absolute;
+  top: -1px;
+  width: 3px;
+}
+.index .line-37-copy-BCIrJ0 {
+  background-color: transparent;
+  height: 682px;
+  left: 1319px;
+  position: absolute;
+  top: -1px;
+  width: 3px;
+}
+.index .line-37-xzVkju {
+  background-color: transparent;
+  height: 682px;
+  left: 1319px;
+  position: absolute;
+  top: -1px;
+  width: 3px;
+}
+.index .line-4-zUixHA {
+  background-color: transparent;
+  height: 236px;
+  left: 0px;
+  position: absolute;
+  top: 402px;
+  width: 436px;
+}
+.index .line-5-zUixHA {
+  background-color: transparent;
+  height: 379px;
+  left: 67px;
+  position: absolute;
+  top: 110px;
+  width: 76px;
+}
+.index .line-6-C61RwL {
+  background-color: transparent;
+  height: 2px;
+  left: 1000px;
+  position: absolute;
+  top: 773px;
+  width: 353px;
+}
+.index .line-7-kdhV9R {
+  background-color: transparent;
+  height: 3px;
+  left: 20px;
+  position: absolute;
+  top: 23px;
+  width: 355px;
+}
+.index .line-8-kdhV9R {
+  background-color: transparent;
+  height: 137px;
+  left: 335px;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+.index .line-9-kdhV9R {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 114px;
+  width: 353px;
+}
+.index .line-zUixHA {
+  background-color: transparent;
+  height: 71px;
+  left: 95px;
+  position: absolute;
+  top: 92px;
+  width: 406px;
+}
+.index .linkedin-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 686px;
+  position: absolute;
+  top: 5135px;
+  width: 68px;
+}
+.index .logo-C61RwL {
+  background-color: transparent;
+  height: 111px;
+  left: 66px;
+  position: absolute;
+  top: 49px;
+  width: 133px;
+}
+.index .meditation-visuali-xzVkju {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 825px;
+  letter-spacing: 2.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 292px;
+  width: 454px;
+}
+.index .online-shopping-app-BCIrJ0 {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 839px;
+  letter-spacing: 2.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 280px;
+  width: 422px;
+}
+.index .oval-copy-4-4mngt5 {
+  background-color: transparent;
+  border: 3.3px solid #005a5f;
+  border-radius: 68px/70px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.index .oval-copy-4-935xTs {
+  background-color: transparent;
+  border: 3.3px solid #1771b9;
+  border-radius: 68px/70px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.index .oval-copy-4-Qs6Z5b {
+  background-color: transparent;
+  border: 3.3px solid #1771b9;
+  border-radius: 68px/70px;
+  height: 70px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 68px;
+}
+.index .path-10-copy-exFKkL {
+  background-color: transparent;
+  height: 93px;
+  left: 34px;
+  position: absolute;
+  top: -4px;
+  width: 101px;
+}
+.index .path-10-exFKkL {
+  background-color: transparent;
+  height: 118px;
+  left: -5px;
+  position: absolute;
+  top: -5px;
+  width: 128px;
+}
+.index .path-6-4mngt5 {
+  background-color: transparent;
+  height: 45px;
+  left: 30px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+.index .path-7-4mngt5 {
+  background-color: transparent;
+  height: 23px;
+  left: 14px;
+  position: absolute;
+  top: 23px;
+  width: 17px;
+}
+.index .projects-C61RwL {
+  background-color: transparent;
+  height: 2292px;
+  left: 0px;
+  position: absolute;
+  top: 2097px;
+  width: 1440px;
+}
+.index .projects-SgCZLU {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 585px;
+  letter-spacing: 3.33px;
+  line-height: 65px;
+  position: absolute;
+  text-align: center;
+  top: 62px;
+  white-space: nowrap;
+  width: 270px;
+}
+.index .projects-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1104px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 116px;
+}
+.index .recipe-app-easy-coo-N3btDR {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 839px;
+  letter-spacing: 2.00px;
+  line-height: 57px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 308px;
+  width: 422px;
+}
+.index .rectangle-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 995px;
+  position: absolute;
+  top: 724px;
+  width: 366px;
+}
+.index .rectangle-SgCZLU {
+  background-color: transparent;
+  height: 161px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.index .rectangle-XXuWYw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 79px;
+  left: 614px;
+  position: absolute;
+  top: 331px;
+  width: 216px;
+}
+.index .rectangle-cTZTuB {
+  background-color: transparent;
+  height: 181px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.index .rectangle-kdhV9R {
+  background-color: var(--purple);
+  height: 91px;
+  left: 36px;
+  position: absolute;
+  top: 24px;
+  width: 301px;
+}
+.index .resume-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 144px;
+  left: 534px;
+  position: absolute;
+  top: 1774px;
+  width: 374px;
+}
+.index .rsum-kdhV9R {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 83px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: 206px;
+}
+.index .shape-935xTs {
+  background-color: transparent;
+  height: 39px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 39px;
+}
+.index .xing-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 1104px;
+  position: absolute;
+  top: 5135px;
+  width: 68px;
+}

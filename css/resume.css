@@ -1,0 +1,761 @@
+/* screen - resume */
+
+.resume {
+  background-color: var(--white);
+  height: 2497px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.resume .aathira-haridas-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 94px;
+  letter-spacing: 0.15px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 285px;
+  width: 443px;
+}
+.resume .aathiraharidasuiat-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: -0.86px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 650px;
+  width: 394px;
+}
+.resume .applied-skills-in-de-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 664px;
+  width: auto;
+}
+.resume .architect-october-2-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 630px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1928px;
+  width: 718px;
+}
+.resume .bachelors-in-archite-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1717px;
+  width: 720px;
+}
+.resume .combined-shape-935xTs {
+  background-color: transparent;
+  height: 27px;
+  left: 5px;
+  position: absolute;
+  top: 5px;
+  width: 27px;
+}
+.resume .combined-shape-C61RwL {
+  background-color: transparent;
+  height: 40px;
+  left: 90px;
+  position: absolute;
+  top: 475px;
+  width: 40px;
+}
+.resume .concept-development-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 630px;
+  letter-spacing: 0.15px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 735px;
+  white-space: nowrap;
+  width: 720px;
+}
+.resume .create-new-interacti-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1067px;
+  width: 718px;
+}
+.resume .daydream-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1018px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 1102px;
+  white-space: nowrap;
+  width: 124px;
+}
+.resume .dekor-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1028px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 867px;
+  white-space: nowrap;
+  width: 75px;
+}
+.resume .design-presentation-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0.15px;
+  line-height: 19px;
+  position: absolute;
+  text-align: left;
+  top: 1185px;
+  width: 498px;
+}
+.resume .easy-cook-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 999px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 1005px;
+  white-space: nowrap;
+  width: 114px;
+}
+.resume .education-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1457px;
+  width: auto;
+}
+.resume .email-me-hvAGCq {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 83px;
+  letter-spacing: 2.00px;
+  line-height: 38px;
+  position: absolute;
+  text-align: center;
+  top: 51px;
+  white-space: nowrap;
+  width: 206px;
+}
+.resume .expert-in-concept-de-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 797px;
+  width: 718px;
+}
+.resume .german-b2-level-en-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1773px;
+  width: 218px;
+}
+.resume .group-3-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 144px;
+  left: 542px;
+  position: absolute;
+  top: 2310px;
+  width: 374px;
+}
+.resume .hobbies-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1918px;
+  width: auto;
+}
+.resume .home-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1245px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 135px;
+}
+.resume .junior-architect-fe-C61RwL {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 2016px;
+  width: 720px;
+}
+.resume .l-anguages-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1713px;
+  width: auto;
+}
+.resume .line-10-hvAGCq {
+  background-color: transparent;
+  height: 136px;
+  left: 34px;
+  position: absolute;
+  top: -1px;
+  width: 3px;
+}
+.resume .line-38-C61RwL {
+  background-color: transparent;
+  height: 1857px;
+  left: 565px;
+  position: absolute;
+  top: 264px;
+  width: 7px;
+}
+.resume .line-7-hvAGCq {
+  background-color: transparent;
+  height: 3px;
+  left: 20px;
+  position: absolute;
+  top: 23px;
+  width: 355px;
+}
+.resume .line-8-hvAGCq {
+  background-color: transparent;
+  height: 137px;
+  left: 335px;
+  position: absolute;
+  top: 8px;
+  width: 3px;
+}
+.resume .line-9-hvAGCq {
+  background-color: transparent;
+  height: 3px;
+  left: -1px;
+  position: absolute;
+  top: 114px;
+  width: 353px;
+}
+.resume .linkedin-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 94px;
+  position: absolute;
+  top: 697px;
+  width: 38px;
+}
+.resume .logo-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 111px;
+  left: 66px;
+  position: absolute;
+  top: 49px;
+  width: 133px;
+}
+.resume .my-behance-portfolio-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.10px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 775px;
+  width: 300px;
+}
+.resume .my-linkedin-profile-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: 0.10px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 695px;
+  width: 307px;
+}
+.resume .path-10-copy-exFKkL {
+  background-color: transparent;
+  height: 93px;
+  left: 34px;
+  position: absolute;
+  top: -4px;
+  width: 101px;
+}
+.resume .path-10-exFKkL {
+  background-color: transparent;
+  height: 118px;
+  left: -5px;
+  position: absolute;
+  top: -5px;
+  width: 128px;
+}
+.resume .post-graduate-diplom-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1623px;
+  width: 572px;
+}
+.resume .proficient-in-creati-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1240px;
+  width: 718px;
+}
+.resume .provide-intuitive-us-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 631px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 935px;
+  width: 718px;
+}
+.resume .rectangle-935xTs {
+  background-color: #2867b2;
+  border-radius: 3.96px;
+  height: 38px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 38px;
+}
+.resume .rectangle-C61RwL {
+  background-color: transparent;
+  border-radius: 3.96px;
+  height: 38px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 778px;
+  width: 38px;
+}
+.resume .rectangle-hvAGCq {
+  background-color: var(--purple);
+  height: 91px;
+  left: 36px;
+  position: absolute;
+  top: 24px;
+  width: 301px;
+}
+.resume .shape-C61RwL {
+  background-color: transparent;
+  height: 55px;
+  left: 93px;
+  position: absolute;
+  top: 541px;
+  width: 36px;
+}
+.resume .shape-VMr6Om {
+  background-color: transparent;
+  height: 25px;
+  left: 94px;
+  position: absolute;
+  top: 633px;
+  width: 39px;
+}
+.resume .sketch-adobe-photosh-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1400px;
+  width: 202px;
+}
+.resume .sketching-cooking-an-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1978px;
+  width: 277px;
+}
+.resume .skills-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 881px;
+  width: auto;
+}
+.resume .span1-5s3t1S {
+  letter-spacing: 0.00px;
+}
+.resume .span1-IgEVCD {
+  letter-spacing: 0.00px;
+}
+.resume .span1-IlfJB6 {
+  letter-spacing: 0.00px;
+}
+.resume .span1-Lzrj08 {
+  letter-spacing: 0.00px;
+  line-height: 35px;
+}
+.resume .span1-NBQxPq {
+  letter-spacing: 0.00px;
+}
+.resume .span1-RVFBFI {
+  letter-spacing: 0.00px;
+}
+.resume .span1-e7RKjb {
+  letter-spacing: 0.00px;
+}
+.resume .span1-gvZLJS {
+  letter-spacing: 0.00px;
+}
+.resume .span1-lrw9sN {
+  letter-spacing: 0.00px;
+}
+.resume .span1-mEULRM {
+  letter-spacing: 0.00px;
+}
+.resume .span1-x6Nxb8 {
+  letter-spacing: 0.00px;
+}
+.resume .span1-xtuMb6 {
+  letter-spacing: 0.00px;
+}
+.resume .span2-5s3t1S {
+  letter-spacing: 0.00px;
+}
+.resume .span2-IgEVCD {
+  letter-spacing: 0.00px;
+}
+.resume .span2-IlfJB6 {
+  letter-spacing: 0.00px;
+  text-decoration: underline;
+}
+.resume .span2-Lzrj08 {
+  letter-spacing: 0.00px;
+  line-height: 35px;
+}
+.resume .span2-NBQxPq {
+  letter-spacing: 0.00px;
+}
+.resume .span2-RVFBFI {
+  letter-spacing: 0.00px;
+}
+.resume .span2-e7RKjb {
+  letter-spacing: 0.00px;
+}
+.resume .span2-gvZLJS {
+  letter-spacing: 0.00px;
+}
+.resume .span2-lrw9sN {
+  letter-spacing: 0.00px;
+}
+.resume .span2-mEULRM {
+  letter-spacing: 0.00px;
+}
+.resume .span2-x6Nxb8 {
+  letter-spacing: 0.00px;
+  text-decoration: underline;
+}
+.resume .span2-xtuMb6 {
+  letter-spacing: 0.00px;
+  text-decoration: underline;
+}
+.resume .span3-IlfJB6 {
+  letter-spacing: 0.00px;
+}
+.resume .span3-Lzrj08 {
+  letter-spacing: 0.00px;
+  line-height: 35px;
+}
+.resume .span3-RVFBFI {
+  letter-spacing: 0.00px;
+}
+.resume .span3-gvZLJS {
+  letter-spacing: 0.00px;
+}
+.resume .span3-lrw9sN {
+  letter-spacing: 0.00px;
+}
+.resume .span3-mEULRM {
+  letter-spacing: 0.00px;
+}
+.resume .span3-x6Nxb8 {
+  letter-spacing: 0.00px;
+}
+.resume .span3-xtuMb6 {
+  letter-spacing: 0.00px;
+}
+.resume .span4-Lzrj08 {
+  letter-spacing: 0.00px;
+  line-height: 35px;
+}
+.resume .span4-RVFBFI {
+  letter-spacing: 0.00px;
+}
+.resume .span4-gvZLJS {
+  letter-spacing: 0.00px;
+}
+.resume .span4-lrw9sN {
+  letter-spacing: 0.00px;
+}
+.resume .span4-mEULRM {
+  letter-spacing: 0.00px;
+}
+.resume .span5-Lzrj08 {
+  color: var(--black);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+}
+.resume .span5-RVFBFI {
+  letter-spacing: 0.00px;
+}
+.resume .span5-gvZLJS {
+  letter-spacing: 0.00px;
+}
+.resume .span5-mEULRM {
+  letter-spacing: 0.00px;
+}
+.resume .span6-mEULRM {
+  letter-spacing: 0.00px;
+}
+.resume .summary-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 630px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 370px;
+  width: auto;
+}
+.resume .tools-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1347px;
+  width: 113px;
+}
+.resume .ui-designer-C61RwL {
+  background-color: transparent;
+  color: var(--purple);
+  font-family: var(--font-family-open_sans);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 89px;
+  letter-spacing: 0.15px;
+  line-height: 33px;
+  position: absolute;
+  text-align: left;
+  top: 359px;
+  width: 460px;
+}
+.resume .ui-designer-with-a-b-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 448px;
+  width: 740px;
+}
+.resume .user-centered-design-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.15px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 946px;
+  width: 267px;
+}
+.resume .user-interface-desig-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 1528px;
+  width: 610px;
+}
+.resume .work-experience-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 632px;
+  letter-spacing: 0.15px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1861px;
+  width: auto;
+}
+.resume .would-you-like-to-re-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 283px;
+  letter-spacing: 0.15px;
+  line-height: 32px;
+  position: absolute;
+  text-align: left;
+  top: 2223px;
+  width: 875px;
+}
+.resume .x26789-leer-germany-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: -0.86px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 496px;
+  width: 321px;
+}
+.resume .x49-178-635-7167-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 150px;
+  letter-spacing: -0.86px;
+  line-height: 0.1px;
+  position: absolute;
+  text-align: left;
+  top: 570px;
+  width: 274px;
+}

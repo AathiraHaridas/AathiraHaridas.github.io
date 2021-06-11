@@ -1,0 +1,4756 @@
+/* screen - daydream */
+
+.daydream {
+  background-color: var(--white);
+  height: 15936px;
+  overflow-x: hidden;
+  position: relative;
+  width: 1440px;
+}
+.daydream .a-mindful-way-to-dre-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 161px;
+  letter-spacing: -0.24px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 776px;
+  width: 351px;
+}
+.daydream .active-state-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 161px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7978px;
+  width: 224px;
+}
+.daydream .add-button-C61RwL {
+  background-color: transparent;
+  height: 54px;
+  left: 500px;
+  position: absolute;
+  top: 8862px;
+  width: 301px;
+}
+.daydream .add-your-1st-visionb-Ck7EQp {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 77px;
+  letter-spacing: -0.14px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .an-app-that-offers-s-C61RwL {
+  background-color: transparent;
+  color: #0e3703;
+  font-family: var(--font-family-sanfranciscodisplay-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 603px;
+  letter-spacing: -0.13px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 1857px;
+  width: 385px;
+}
+.daydream .anxiety-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 114px;
+  position: absolute;
+  top: 9114px;
+  width: 364px;
+}
+.daydream .anxiety-attack-xMAmZw {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 164px;
+  letter-spacing: -0.14px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .appearance-19UhTU {
+  background-color: transparent;
+  border: 3px solid var(--black);
+  border-radius: 8px;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.daydream .appearance-1JkNxa {
+  background-color: var(--black);
+  border-radius: 8px;
+  height: 50px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 343px;
+}
+.daydream .as-a-user-i-want-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 693px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 4287px;
+  width: 423px;
+}
+.daydream .as-a-user-i-want-QxM5SU {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 102px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 4259px;
+  width: 339px;
+}
+.daydream .as-a-user-i-want-VMr6Om {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 406px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 4120px;
+  width: 392px;
+}
+.daydream .as-a-user-i-want-mzXdH9 {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 143px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 3993px;
+  width: 339px;
+}
+.daydream .back-to-top-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1291px;
+  letter-spacing: -0.12px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 15874px;
+  width: 148px;
+}
+.daydream .body-text-1-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-medium);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 507px;
+  letter-spacing: 0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 9967px;
+  white-space: nowrap;
+  width: 223px;
+}
+.daydream .body-text-2-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-medium);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 507px;
+  letter-spacing: 0.09px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: 9994px;
+  width: 198px;
+}
+.daydream .book-open-PLjKt5 {
+  background-color: transparent;
+  height: 67px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 92px;
+}
+.daydream .button-bezel-pvgYHY {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.daydream .button-shape-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 113px;
+  position: absolute;
+  top: 8862px;
+  width: 343px;
+}
+.daydream .buttons-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 95px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8781px;
+  width: 118px;
+}
+.daydream .cards-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 95px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9050px;
+  width: 118px;
+}
+.daydream .cascading-waterfall-Ye91bq {
+  background-color: transparent;
+  height: 67px;
+  left: 15px;
+  position: absolute;
+  top: 25px;
+  width: 121px;
+}
+.daydream .cascading-waterfall-ZouBTW {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 151px;
+  letter-spacing: -0.14px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .click-to-try-this-pr-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  cursor: pointer;
+  font-family: var(--font-family-sanfranciscodisplay-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 169px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  text-decoration: underline;
+  top: 7268px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .color-EBKMtP {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 44px;
+  width: 333px;
+}
+.daydream .color-YDxDGd {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 44px;
+  width: 333px;
+}
+.daydream .color-vJBK6I {
+  background-color: transparent;
+  height: 1px;
+  left: 16px;
+  position: absolute;
+  top: 44px;
+  width: 333px;
+}
+.daydream .colors-typography-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 775px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 9419px;
+  width: 328px;
+}
+.daydream .combined-shape-05ZVxg {
+  background-color: transparent;
+  height: 70px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+.daydream .combined-shape-8yPkW9 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+.daydream .combined-shape-ApBBOT {
+  background-color: transparent;
+  height: 66px;
+  left: 14px;
+  position: absolute;
+  top: 0px;
+  width: 66px;
+}
+.daydream .combined-shape-BPahYV {
+  background-color: transparent;
+  height: 606px;
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: 307px;
+}
+.daydream .combined-shape-KhCHue {
+  background-color: transparent;
+  height: 422px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 212px;
+}
+.daydream .combined-shape-P4lFNG {
+  background-color: transparent;
+  height: 422px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 212px;
+}
+.daydream .combined-shape-QSZkpT {
+  background-color: transparent;
+  height: 524px;
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: 266px;
+}
+.daydream .combined-shape-RnxGh4 {
+  background-color: transparent;
+  height: 388px;
+  left: -3px;
+  position: absolute;
+  top: -3px;
+  width: 197px;
+}
+.daydream .combined-shape-YtMeTm {
+  background-color: transparent;
+  height: 61px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 59px;
+}
+.daydream .combined-shape-h9zUDF {
+  background-color: transparent;
+  height: 606px;
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: 307px;
+}
+.daydream .combined-shape-hnekYi {
+  background-color: transparent;
+  height: 64px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 58px;
+}
+.daydream .combined-shape-ksvukP {
+  background-color: transparent;
+  height: 606px;
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: 307px;
+}
+.daydream .combined-shape-mV6v3q {
+  background-color: transparent;
+  height: 606px;
+  left: -4px;
+  position: absolute;
+  top: -4px;
+  width: 307px;
+}
+.daydream .combined-shape-rv4aVI {
+  background-color: transparent;
+  height: 422px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 212px;
+}
+.daydream .combined-shape-uQAfei {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.daydream .combined-shape-xsG1VZ {
+  background-color: transparent;
+  height: 422px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 212px;
+}
+.daydream .daydream-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-sanfranciscodisplay-bold);
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 161px;
+  letter-spacing: -0.32px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 725px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .daydream-user-flow-4-C61RwL {
+  background-color: transparent;
+  height: 734px;
+  left: 310px;
+  position: absolute;
+  top: 4586px;
+  width: 819px;
+}
+.daydream .device-Kz4HtW {
+  background-color: transparent;
+  height: 700px;
+  left: 108px;
+  position: absolute;
+  top: 0px;
+  width: 602px;
+}
+.daydream .dr-mikao-usui-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 816px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 2393px;
+  width: 338px;
+}
+.daydream .e6-b8-b8-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1214px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 9904px;
+  white-space: nowrap;
+  width: 106px;
+}
+.daydream .each-one-of-us-has-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 83px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 2277px;
+  width: 780px;
+}
+.daydream .ed8080-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1037px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 9904px;
+  white-space: nowrap;
+  width: 86px;
+}
+.daydream .ffffff-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1224px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 9723px;
+  white-space: nowrap;
+  width: 81px;
+}
+.daydream .fill-115-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 51px;
+  position: absolute;
+  top: 49px;
+  width: 3px;
+}
+.daydream .fill-116-3cZhlu {
+  background-color: transparent;
+  height: 92px;
+  left: 52px;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+.daydream .fill-117-3cZhlu {
+  background-color: transparent;
+  height: 92px;
+  left: 57px;
+  position: absolute;
+  top: 1px;
+  width: 11px;
+}
+.daydream .fill-118-3cZhlu {
+  background-color: transparent;
+  height: 88px;
+  left: 66px;
+  position: absolute;
+  top: 1px;
+  width: 7px;
+}
+.daydream .fill-119-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 74px;
+  position: absolute;
+  top: 37px;
+  width: 5px;
+}
+.daydream .fill-120-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 75px;
+  position: absolute;
+  top: 24px;
+  width: 5px;
+}
+.daydream .fill-121-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 76px;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+.daydream .fill-122-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 62px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.daydream .fill-123-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 56px;
+  position: absolute;
+  top: 11px;
+  width: 4px;
+}
+.daydream .fill-124-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 52px;
+  position: absolute;
+  top: 24px;
+  width: 4px;
+}
+.daydream .fill-125-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 52px;
+  position: absolute;
+  top: 38px;
+  width: 4px;
+}
+.daydream .fill-126-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 50px;
+  position: absolute;
+  top: 59px;
+  width: 4px;
+}
+.daydream .fill-127-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 50px;
+  position: absolute;
+  top: 70px;
+  width: 4px;
+}
+.daydream .fill-127-s2rYGI {
+  background-color: transparent;
+  height: 12px;
+  left: 56px;
+  position: absolute;
+  top: 52px;
+  width: 1px;
+}
+.daydream .fill-128-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 60px;
+  position: absolute;
+  top: 78px;
+  width: 2px;
+}
+.daydream .fill-129-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 61px;
+  position: absolute;
+  top: 61px;
+  width: 4px;
+}
+.daydream .fill-13-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 77px;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+.daydream .fill-130-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 62px;
+  position: absolute;
+  top: 48px;
+  width: 3px;
+}
+.daydream .fill-131-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 63px;
+  position: absolute;
+  top: 36px;
+  width: 3px;
+}
+.daydream .fill-132-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 64px;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+.daydream .fill-133-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 67px;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+.daydream .fill-134-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 71px;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+.daydream .fill-135-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 74px;
+  position: absolute;
+  top: 5px;
+  width: 3px;
+}
+.daydream .fill-136-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 72px;
+  position: absolute;
+  top: 49px;
+  width: 5px;
+}
+.daydream .fill-137-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 71px;
+  position: absolute;
+  top: 61px;
+  width: 4px;
+}
+.daydream .fill-138-3cZhlu {
+  background-color: transparent;
+  height: 5px;
+  left: 70px;
+  position: absolute;
+  top: 73px;
+  width: 4px;
+}
+.daydream .fill-139-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 50px;
+  position: absolute;
+  top: 83px;
+  width: 3px;
+}
+.daydream .fill-140-3cZhlu {
+  background-color: transparent;
+  height: 47px;
+  left: 32px;
+  position: absolute;
+  top: 42px;
+  width: 18px;
+}
+.daydream .fill-141-3cZhlu {
+  background-color: transparent;
+  height: 73px;
+  left: 3px;
+  position: absolute;
+  top: 20px;
+  width: 32px;
+}
+.daydream .fill-142-3cZhlu {
+  background-color: transparent;
+  height: 47px;
+  left: 35px;
+  position: absolute;
+  top: 42px;
+  width: 8px;
+}
+.daydream .fill-143-3cZhlu {
+  background-color: transparent;
+  height: 70px;
+  left: 7px;
+  position: absolute;
+  top: 20px;
+  width: 16px;
+}
+.daydream .fill-144-3cZhlu {
+  background-color: transparent;
+  height: 70px;
+  left: 10px;
+  position: absolute;
+  top: 20px;
+  width: 22px;
+}
+.daydream .fill-145-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 44px;
+  width: 4px;
+}
+.daydream .fill-146-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 34px;
+  width: 5px;
+}
+.daydream .fill-147-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: 23px;
+  width: 3px;
+}
+.daydream .fill-148-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 10px;
+  position: absolute;
+  top: 17px;
+  width: 1px;
+}
+.daydream .fill-149-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 17px;
+  position: absolute;
+  top: 21px;
+  width: 2px;
+}
+.daydream .fill-150-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 21px;
+  position: absolute;
+  top: 31px;
+  width: 3px;
+}
+.daydream .fill-150-AS6Jmq {
+  background-color: transparent;
+  height: 57px;
+  left: 53px;
+  position: absolute;
+  top: 7px;
+  width: 37px;
+}
+.daydream .fill-151-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 24px;
+  position: absolute;
+  top: 41px;
+  width: 5px;
+}
+.daydream .fill-151-AS6Jmq {
+  background-color: transparent;
+  height: 37px;
+  left: 55px;
+  position: absolute;
+  top: 19px;
+  width: 56px;
+}
+.daydream .fill-152-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 12px;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+.daydream .fill-152-AS6Jmq {
+  background-color: transparent;
+  height: 10px;
+  left: 94px;
+  position: absolute;
+  top: 35px;
+  width: 9px;
+}
+.daydream .fill-153-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 15px;
+  position: absolute;
+  top: 47px;
+  width: 2px;
+}
+.daydream .fill-153-4Zevx3 {
+  background-color: transparent;
+  height: 19px;
+  left: 72px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.daydream .fill-153-AS6Jmq {
+  background-color: transparent;
+  height: 5px;
+  left: 72px;
+  position: absolute;
+  top: 34px;
+  width: 2px;
+}
+.daydream .fill-154-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 5px;
+  position: absolute;
+  top: 53px;
+  width: 4px;
+}
+.daydream .fill-154-4Zevx3 {
+  background-color: transparent;
+  height: 17px;
+  left: 88px;
+  position: absolute;
+  top: 24px;
+  width: 21px;
+}
+.daydream .fill-154-AS6Jmq {
+  background-color: transparent;
+  height: 2px;
+  left: 75px;
+  position: absolute;
+  top: 35px;
+  width: 2px;
+}
+.daydream .fill-155-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 65px;
+  width: 3px;
+}
+.daydream .fill-155-4Zevx3 {
+  background-color: transparent;
+  height: 12px;
+  left: 89px;
+  position: absolute;
+  top: 20px;
+  width: 16px;
+}
+.daydream .fill-155-AS6Jmq {
+  background-color: transparent;
+  height: 4px;
+  left: 75px;
+  position: absolute;
+  top: 29px;
+  width: 11px;
+}
+.daydream .fill-156-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 11px;
+  position: absolute;
+  top: 75px;
+  width: 3px;
+}
+.daydream .fill-156-4Zevx3 {
+  background-color: transparent;
+  height: 15px;
+  left: 91px;
+  position: absolute;
+  top: 10px;
+  width: 13px;
+}
+.daydream .fill-156-AS6Jmq {
+  background-color: transparent;
+  height: 5px;
+  left: 67px;
+  position: absolute;
+  top: 33px;
+  width: 2px;
+}
+.daydream .fill-157-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 25px;
+  position: absolute;
+  top: 50px;
+  width: 3px;
+}
+.daydream .fill-157-4Zevx3 {
+  background-color: transparent;
+  height: 15px;
+  left: 92px;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+.daydream .fill-157-AS6Jmq {
+  background-color: transparent;
+  height: 5px;
+  left: 73px;
+  position: absolute;
+  top: 21px;
+  width: 2px;
+}
+.daydream .fill-158-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 27px;
+  position: absolute;
+  top: 65px;
+  width: 3px;
+}
+.daydream .fill-158-4Zevx3 {
+  background-color: transparent;
+  height: 12px;
+  left: 16px;
+  position: absolute;
+  top: 31px;
+  width: 21px;
+}
+.daydream .fill-158-AS6Jmq {
+  background-color: transparent;
+  height: 7px;
+  left: 73px;
+  position: absolute;
+  top: 49px;
+  width: 9px;
+}
+.daydream .fill-159-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 30px;
+  position: absolute;
+  top: 76px;
+  width: 4px;
+}
+.daydream .fill-159-4Zevx3 {
+  background-color: transparent;
+  height: 11px;
+  left: 19px;
+  position: absolute;
+  top: 26px;
+  width: 17px;
+}
+.daydream .fill-159-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 75px;
+  position: absolute;
+  top: 51px;
+  width: 5px;
+}
+.daydream .fill-160-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 15px;
+  position: absolute;
+  top: 84px;
+  width: 4px;
+}
+.daydream .fill-160-4Zevx3 {
+  background-color: transparent;
+  height: 9px;
+  left: 21px;
+  position: absolute;
+  top: 22px;
+  width: 13px;
+}
+.daydream .fill-160-AS6Jmq {
+  background-color: transparent;
+  height: 42px;
+  left: 50px;
+  position: absolute;
+  top: 13px;
+  width: 35px;
+}
+.daydream .fill-161-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 23px;
+  position: absolute;
+  top: 78px;
+  width: 1px;
+}
+.daydream .fill-161-4Zevx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 22px;
+  position: absolute;
+  top: 19px;
+  width: 11px;
+}
+.daydream .fill-161-AS6Jmq {
+  background-color: transparent;
+  height: 15px;
+  left: 57px;
+  position: absolute;
+  top: 37px;
+  width: 13px;
+}
+.daydream .fill-162-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 20px;
+  position: absolute;
+  top: 65px;
+  width: 2px;
+}
+.daydream .fill-162-4Zevx3 {
+  background-color: transparent;
+  height: 8px;
+  left: 23px;
+  position: absolute;
+  top: 14px;
+  width: 9px;
+}
+.daydream .fill-162-AS6Jmq {
+  background-color: transparent;
+  height: 23px;
+  left: 53px;
+  position: absolute;
+  top: 13px;
+  width: 18px;
+}
+.daydream .fill-163-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 41px;
+  position: absolute;
+  top: 45px;
+  width: 3px;
+}
+.daydream .fill-163-4Zevx3 {
+  background-color: transparent;
+  height: 9px;
+  left: 24px;
+  position: absolute;
+  top: 8px;
+  width: 6px;
+}
+.daydream .fill-163-AS6Jmq {
+  background-color: transparent;
+  height: 9px;
+  left: 66px;
+  position: absolute;
+  top: 12px;
+  width: 2px;
+}
+.daydream .fill-164-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 43px;
+  position: absolute;
+  top: 53px;
+  width: 4px;
+}
+.daydream .fill-164-4Zevx3 {
+  background-color: transparent;
+  height: 13px;
+  left: 99px;
+  position: absolute;
+  top: 36px;
+  width: 22px;
+}
+.daydream .fill-164-AS6Jmq {
+  background-color: transparent;
+  height: 5px;
+  left: 76px;
+  position: absolute;
+  top: 22px;
+  width: 2px;
+}
+.daydream .fill-165-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 29px;
+  position: absolute;
+  top: 56px;
+  width: 4px;
+}
+.daydream .fill-165-4Zevx3 {
+  background-color: transparent;
+  height: 11px;
+  left: 101px;
+  position: absolute;
+  top: 31px;
+  width: 18px;
+}
+.daydream .fill-165-AS6Jmq {
+  background-color: transparent;
+  height: 2px;
+  left: 79px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+.daydream .fill-166-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 31px;
+  position: absolute;
+  top: 46px;
+  width: 3px;
+}
+.daydream .fill-166-4Zevx3 {
+  background-color: transparent;
+  height: 9px;
+  left: 104px;
+  position: absolute;
+  top: 26px;
+  width: 13px;
+}
+.daydream .fill-166-AS6Jmq {
+  background-color: transparent;
+  height: 4px;
+  left: 86px;
+  position: absolute;
+  top: 33px;
+  width: 3px;
+}
+.daydream .fill-167-3cZhlu {
+  background-color: transparent;
+  height: 2px;
+  left: 44px;
+  position: absolute;
+  top: 61px;
+  width: 4px;
+}
+.daydream .fill-167-4Zevx3 {
+  background-color: transparent;
+  height: 8px;
+  left: 105px;
+  position: absolute;
+  top: 24px;
+  width: 12px;
+}
+.daydream .fill-167-AS6Jmq {
+  background-color: transparent;
+  height: 30px;
+  left: 300px;
+  position: absolute;
+  top: 41px;
+  width: 25px;
+}
+.daydream .fill-168-3cZhlu {
+  background-color: transparent;
+  height: 13px;
+  left: 8px;
+  position: absolute;
+  top: 88px;
+  width: 74px;
+}
+.daydream .fill-168-4Zevx3 {
+  background-color: transparent;
+  height: 8px;
+  left: 106px;
+  position: absolute;
+  top: 19px;
+  width: 9px;
+}
+.daydream .fill-168-AS6Jmq {
+  background-color: transparent;
+  height: 2px;
+  left: 314px;
+  position: absolute;
+  top: 64px;
+  width: 2px;
+}
+.daydream .fill-169-3cZhlu {
+  background-color: transparent;
+  height: 73px;
+  left: 13px;
+  position: absolute;
+  top: 65px;
+  width: 100px;
+}
+.daydream .fill-169-4Zevx3 {
+  background-color: transparent;
+  height: 10px;
+  left: 107px;
+  position: absolute;
+  top: 12px;
+  width: 7px;
+}
+.daydream .fill-169-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 324px;
+  position: absolute;
+  top: 40px;
+  width: 1px;
+}
+.daydream .fill-170-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 101px;
+  width: 75px;
+}
+.daydream .fill-170-4Zevx3 {
+  background-color: transparent;
+  height: 17px;
+  left: 5px;
+  position: absolute;
+  top: 33px;
+  width: 21px;
+}
+.daydream .fill-170-AS6Jmq {
+  background-color: transparent;
+  height: 30px;
+  left: 322px;
+  position: absolute;
+  top: 41px;
+  width: 3px;
+}
+.daydream .fill-171-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 39px;
+  position: absolute;
+  top: 53px;
+  width: 2px;
+}
+.daydream .fill-171-4Zevx3 {
+  background-color: transparent;
+  height: 12px;
+  left: 6px;
+  position: absolute;
+  top: 28px;
+  width: 17px;
+}
+.daydream .fill-171-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 315px;
+  position: absolute;
+  top: 56px;
+  width: 2px;
+}
+.daydream .fill-172-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 41px;
+  position: absolute;
+  top: 63px;
+  width: 1px;
+}
+.daydream .fill-172-4Zevx3 {
+  background-color: transparent;
+  height: 16px;
+  left: 7px;
+  position: absolute;
+  top: 18px;
+  width: 13px;
+}
+.daydream .fill-172-AS6Jmq {
+  background-color: transparent;
+  height: 2px;
+  left: 317px;
+  position: absolute;
+  top: 52px;
+  width: 2px;
+}
+.daydream .fill-173-3cZhlu {
+  background-color: transparent;
+  height: 4px;
+  left: 42px;
+  position: absolute;
+  top: 74px;
+  width: 2px;
+}
+.daydream .fill-173-4Zevx3 {
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  position: absolute;
+  top: 11px;
+  width: 10px;
+}
+.daydream .fill-173-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 318px;
+  position: absolute;
+  top: 50px;
+  width: 3px;
+}
+.daydream .fill-174-3cZhlu {
+  background-color: transparent;
+  height: 3px;
+  left: 36px;
+  position: absolute;
+  top: 84px;
+  width: 2px;
+}
+.daydream .fill-174-4Zevx3 {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 41px;
+  width: 18px;
+}
+.daydream .fill-174-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 311px;
+  position: absolute;
+  top: 56px;
+  width: 1px;
+}
+.daydream .fill-175-3cZhlu {
+  background-color: transparent;
+  height: 1px;
+  left: 32px;
+  position: absolute;
+  top: 70px;
+  width: 3px;
+}
+.daydream .fill-175-4Zevx3 {
+  background-color: transparent;
+  height: 15px;
+  left: 90px;
+  position: absolute;
+  top: 37px;
+  width: 27px;
+}
+.daydream .fill-175-AS6Jmq {
+  background-color: transparent;
+  height: 27px;
+  left: 190px;
+  position: absolute;
+  top: 44px;
+  width: 121px;
+}
+.daydream .fill-175-s2rYGI {
+  background-color: transparent;
+  height: 5px;
+  left: 60px;
+  position: absolute;
+  top: 34px;
+  transform: rotate(27deg);
+  width: 8px;
+}
+.daydream .fill-176-4Zevx3 {
+  background-color: transparent;
+  height: 19px;
+  left: 33px;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+.daydream .fill-176-AS6Jmq {
+  background-color: transparent;
+  height: 23px;
+  left: 197px;
+  position: absolute;
+  top: 46px;
+  width: 24px;
+}
+.daydream .fill-176-s2rYGI {
+  background-color: transparent;
+  height: 5px;
+  left: 46px;
+  position: absolute;
+  top: 10px;
+  width: 8px;
+}
+.daydream .fill-177-4Zevx3 {
+  background-color: transparent;
+  height: 19px;
+  left: 45px;
+  position: absolute;
+  top: 1px;
+  width: 36px;
+}
+.daydream .fill-177-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 245px;
+  position: absolute;
+  top: 48px;
+  width: 1px;
+}
+.daydream .fill-177-s2rYGI {
+  background-color: transparent;
+  height: 6px;
+  left: 19px;
+  position: absolute;
+  top: 68px;
+  width: 7px;
+}
+.daydream .fill-178-4Zevx3 {
+  background-color: transparent;
+  height: 10px;
+  left: 59px;
+  position: absolute;
+  top: 10px;
+  width: 12px;
+}
+.daydream .fill-178-s2rYGI {
+  background-color: transparent;
+  height: 9px;
+  left: 71px;
+  position: absolute;
+  top: 62px;
+  width: 3px;
+}
+.daydream .fill-179-4Zevx3 {
+  background-color: transparent;
+  height: 6px;
+  left: 60px;
+  position: absolute;
+  top: 2px;
+  width: 10px;
+}
+.daydream .fill-180-4Zevx3 {
+  background-color: transparent;
+  height: 12px;
+  left: 59px;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.daydream .fill-181-4Zevx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 79px;
+  position: absolute;
+  top: 11px;
+  width: 8px;
+}
+.daydream .fill-182-4Zevx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 52px;
+  position: absolute;
+  top: 12px;
+  width: 9px;
+}
+.daydream .fill-183-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 55px;
+  position: absolute;
+  top: 14px;
+  width: 3px;
+}
+.daydream .fill-184-4Zevx3 {
+  background-color: transparent;
+  height: 13px;
+  left: 41px;
+  position: absolute;
+  top: 6px;
+  width: 14px;
+}
+.daydream .fill-185-4Zevx3 {
+  background-color: transparent;
+  height: 4px;
+  left: 47px;
+  position: absolute;
+  top: 11px;
+  width: 3px;
+}
+.daydream .fill-186-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 51px;
+  position: absolute;
+  top: 11px;
+  width: 2px;
+}
+.daydream .fill-186-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 275px;
+  position: absolute;
+  top: 61px;
+  width: 2px;
+}
+.daydream .fill-187-4Zevx3 {
+  background-color: transparent;
+  height: 13px;
+  left: 70px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+.daydream .fill-187-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 279px;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+.daydream .fill-188-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 75px;
+  position: absolute;
+  top: 13px;
+  width: 2px;
+}
+.daydream .fill-188-AS6Jmq {
+  background-color: transparent;
+  height: 3px;
+  left: 283px;
+  position: absolute;
+  top: 60px;
+  width: 1px;
+}
+.daydream .fill-189-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 76px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+.daydream .fill-189-AS6Jmq {
+  background-color: transparent;
+  height: 2px;
+  left: 272px;
+  position: absolute;
+  top: 58px;
+  width: 3px;
+}
+.daydream .fill-190-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 72px;
+  position: absolute;
+  top: 16px;
+  width: 2px;
+}
+.daydream .fill-190-AS6Jmq {
+  background-color: transparent;
+  height: 2px;
+  left: 268px;
+  position: absolute;
+  top: 55px;
+  width: 5px;
+}
+.daydream .fill-191-4Zevx3 {
+  background-color: transparent;
+  height: 6px;
+  left: 77px;
+  position: absolute;
+  top: 10px;
+  width: 1px;
+}
+.daydream .fill-191-AS6Jmq {
+  background-color: transparent;
+  height: 5px;
+  left: 271px;
+  position: absolute;
+  top: 51px;
+  width: 2px;
+}
+.daydream .fill-192-4Zevx3 {
+  background-color: transparent;
+  height: 34px;
+  left: 22px;
+  position: absolute;
+  top: 15px;
+  width: 77px;
+}
+.daydream .fill-192-AS6Jmq {
+  background-color: transparent;
+  height: 69px;
+  left: 171px;
+  position: absolute;
+  top: 1px;
+  width: 106px;
+}
+.daydream .fill-193-4Zevx3 {
+  background-color: transparent;
+  height: 19px;
+  left: 15px;
+  position: absolute;
+  top: 31px;
+  width: 23px;
+}
+.daydream .fill-193-AS6Jmq {
+  background-color: transparent;
+  height: 69px;
+  left: 179px;
+  position: absolute;
+  top: 0px;
+  width: 98px;
+}
+.daydream .fill-194-4Zevx3 {
+  background-color: transparent;
+  height: 6px;
+  left: 20px;
+  position: absolute;
+  top: 39px;
+  width: 6px;
+}
+.daydream .fill-194-AS6Jmq {
+  background-color: transparent;
+  height: 8px;
+  left: 234px;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+.daydream .fill-195-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 29px;
+  position: absolute;
+  top: 39px;
+  width: 1px;
+}
+.daydream .fill-195-AS6Jmq {
+  background-color: transparent;
+  height: 39px;
+  left: 102px;
+  position: absolute;
+  top: 32px;
+  width: 87px;
+}
+.daydream .fill-196-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 35px;
+  width: 1px;
+}
+.daydream .fill-196-AS6Jmq {
+  background-color: transparent;
+  height: 26px;
+  left: 90px;
+  position: absolute;
+  top: 45px;
+  width: 36px;
+}
+.daydream .fill-197-4Zevx3 {
+  background-color: transparent;
+  height: 18px;
+  left: 29px;
+  position: absolute;
+  top: 31px;
+  width: 20px;
+}
+.daydream .fill-197-AS6Jmq {
+  background-color: transparent;
+  height: 13px;
+  left: 97px;
+  position: absolute;
+  top: 50px;
+  width: 15px;
+}
+.daydream .fill-198-4Zevx3 {
+  background-color: transparent;
+  height: 3px;
+  left: 39px;
+  position: absolute;
+  top: 34px;
+  width: 4px;
+}
+.daydream .fill-198-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 100px;
+  position: absolute;
+  top: 44px;
+  width: 10px;
+}
+.daydream .fill-199-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 43px;
+  position: absolute;
+  top: 38px;
+  width: 1px;
+}
+.daydream .fill-199-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 121px;
+  position: absolute;
+  top: 65px;
+  width: 66px;
+}
+.daydream .fill-2-s2rYGI {
+  background-color: transparent;
+  height: 92px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.daydream .fill-200-4Zevx3 {
+  background-color: transparent;
+  height: 17px;
+  left: 74px;
+  position: absolute;
+  top: 33px;
+  width: 17px;
+}
+.daydream .fill-200-AS6Jmq {
+  background-color: transparent;
+  height: 16px;
+  left: 98px;
+  position: absolute;
+  top: 50px;
+  width: 16px;
+}
+.daydream .fill-201-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 85px;
+  position: absolute;
+  top: 39px;
+  width: 3px;
+}
+.daydream .fill-201-AS6Jmq {
+  background-color: transparent;
+  height: 12px;
+  left: 97px;
+  position: absolute;
+  top: 50px;
+  width: 15px;
+}
+.daydream .fill-202-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 79px;
+  position: absolute;
+  top: 36px;
+  width: 2px;
+}
+.daydream .fill-202-AS6Jmq {
+  background-color: transparent;
+  height: 10px;
+  left: 105px;
+  position: absolute;
+  top: 35px;
+  width: 3px;
+}
+.daydream .fill-203-4Zevx3 {
+  background-color: transparent;
+  height: 23px;
+  left: 83px;
+  position: absolute;
+  top: 29px;
+  width: 22px;
+}
+.daydream .fill-203-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 103px;
+  position: absolute;
+  top: 41px;
+  width: 3px;
+}
+.daydream .fill-204-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 93px;
+  position: absolute;
+  top: 32px;
+  width: 5px;
+}
+.daydream .fill-204-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 104px;
+  position: absolute;
+  top: 37px;
+  width: 3px;
+}
+.daydream .fill-205-4Zevx3 {
+  background-color: transparent;
+  height: 5px;
+  left: 100px;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+.daydream .fill-205-AS6Jmq {
+  background-color: transparent;
+  height: 20px;
+  left: 93px;
+  position: absolute;
+  top: 51px;
+  width: 15px;
+}
+.daydream .fill-206-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 98px;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+.daydream .fill-206-AS6Jmq {
+  background-color: transparent;
+  height: 12px;
+  left: 119px;
+  position: absolute;
+  top: 57px;
+  width: 2px;
+}
+.daydream .fill-207-4Zevx3 {
+  background-color: transparent;
+  height: 20px;
+  left: 9px;
+  position: absolute;
+  top: 47px;
+  width: 97px;
+}
+.daydream .fill-207-AS6Jmq {
+  background-color: transparent;
+  height: 16px;
+  left: 174px;
+  position: absolute;
+  top: 34px;
+  width: 8px;
+}
+.daydream .fill-208-4Zevx3 {
+  background-color: transparent;
+  height: 13px;
+  left: 49px;
+  position: absolute;
+  top: 17px;
+  width: 21px;
+}
+.daydream .fill-208-AS6Jmq {
+  background-color: transparent;
+  height: 19px;
+  left: 59px;
+  position: absolute;
+  top: 52px;
+  width: 47px;
+}
+.daydream .fill-209-4Zevx3 {
+  background-color: transparent;
+  height: 30px;
+  left: 31px;
+  position: absolute;
+  top: 20px;
+  width: 46px;
+}
+.daydream .fill-209-AS6Jmq {
+  background-color: transparent;
+  height: 19px;
+  left: 58px;
+  position: absolute;
+  top: 52px;
+  width: 48px;
+}
+.daydream .fill-210-4Zevx3 {
+  background-color: transparent;
+  height: 10px;
+  left: 53px;
+  position: absolute;
+  top: 34px;
+  width: 5px;
+}
+.daydream .fill-210-AS6Jmq {
+  background-color: transparent;
+  height: 5px;
+  left: 67px;
+  position: absolute;
+  top: 52px;
+  width: 22px;
+}
+.daydream .fill-211-4Zevx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 60px;
+  position: absolute;
+  top: 34px;
+  width: 1px;
+}
+.daydream .fill-212-4Zevx3 {
+  background-color: transparent;
+  height: 5px;
+  left: 62px;
+  position: absolute;
+  top: 36px;
+  width: 1px;
+}
+.daydream .fill-213-4Zevx3 {
+  background-color: transparent;
+  height: 4px;
+  left: 64px;
+  position: absolute;
+  top: 37px;
+  width: 1px;
+}
+.daydream .fill-214-4Zevx3 {
+  background-color: transparent;
+  height: 3px;
+  left: 46px;
+  position: absolute;
+  top: 48px;
+  width: 23px;
+}
+.daydream .fill-215-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 67px;
+  position: absolute;
+  top: 51px;
+  width: 5px;
+}
+.daydream .fill-216-4Zevx3 {
+  background-color: transparent;
+  height: 4px;
+  left: 46px;
+  position: absolute;
+  top: 52px;
+  width: 16px;
+}
+.daydream .fill-217-4Zevx3 {
+  background-color: transparent;
+  height: 5px;
+  left: 84px;
+  position: absolute;
+  top: 47px;
+  width: 15px;
+}
+.daydream .fill-218-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 90px;
+  position: absolute;
+  top: 49px;
+  width: 4px;
+}
+.daydream .fill-219-4Zevx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 76px;
+  position: absolute;
+  top: 46px;
+  width: 11px;
+}
+.daydream .fill-220-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 80px;
+  position: absolute;
+  top: 49px;
+  width: 3px;
+}
+.daydream .fill-221-4Zevx3 {
+  background-color: transparent;
+  height: 5px;
+  left: 18px;
+  position: absolute;
+  top: 47px;
+  width: 8px;
+}
+.daydream .fill-222-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 21px;
+  position: absolute;
+  top: 49px;
+  width: 2px;
+}
+.daydream .fill-223-4Zevx3 {
+  background-color: transparent;
+  height: 3px;
+  left: 41px;
+  position: absolute;
+  top: 59px;
+  width: 8px;
+}
+.daydream .fill-224-4Zevx3 {
+  background-color: transparent;
+  height: 3px;
+  left: 85px;
+  position: absolute;
+  top: 60px;
+  width: 8px;
+}
+.daydream .fill-225-4Zevx3 {
+  background-color: transparent;
+  height: 6px;
+  left: 57px;
+  position: absolute;
+  top: 46px;
+  width: 9px;
+}
+.daydream .fill-226-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 87px;
+  position: absolute;
+  top: 43px;
+  width: 1px;
+}
+.daydream .fill-227-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 59px;
+  position: absolute;
+  top: 51px;
+  width: 5px;
+}
+.daydream .fill-228-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 62px;
+  position: absolute;
+  top: 48px;
+  width: 2px;
+}
+.daydream .fill-229-4Zevx3 {
+  background-color: transparent;
+  height: 8px;
+  left: 24px;
+  position: absolute;
+  top: 44px;
+  width: 17px;
+}
+.daydream .fill-230-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 27px;
+  position: absolute;
+  top: 49px;
+  width: 4px;
+}
+.daydream .fill-231-4Zevx3 {
+  background-color: transparent;
+  height: 2px;
+  left: 32px;
+  position: absolute;
+  top: 46px;
+  width: 4px;
+}
+.daydream .fill-232-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 38px;
+  position: absolute;
+  top: 50px;
+  width: 1px;
+}
+.daydream .fill-233-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 32px;
+  position: absolute;
+  top: 49px;
+  width: 2px;
+}
+.daydream .fill-234-4Zevx3 {
+  background-color: transparent;
+  height: 7px;
+  left: 21px;
+  position: absolute;
+  top: 54px;
+  width: 15px;
+}
+.daydream .fill-235-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 28px;
+  position: absolute;
+  top: 56px;
+  width: 5px;
+}
+.daydream .fill-236-4Zevx3 {
+  background-color: transparent;
+  height: 5px;
+  left: 75px;
+  position: absolute;
+  top: 54px;
+  width: 12px;
+}
+.daydream .fill-237-4Zevx3 {
+  background-color: transparent;
+  height: 1px;
+  left: 79px;
+  position: absolute;
+  top: 57px;
+  width: 4px;
+}
+.daydream .fill-46-AS6Jmq {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 69px;
+  width: 375px;
+}
+.daydream .fill-54-s2rYGI {
+  background-color: transparent;
+  height: 23px;
+  left: 18px;
+  position: absolute;
+  top: 22px;
+  width: 15px;
+}
+.daydream .fill-55-s2rYGI {
+  background-color: transparent;
+  height: 7px;
+  left: 27px;
+  position: absolute;
+  top: 27px;
+  width: 2px;
+}
+.daydream .fill-56-s2rYGI {
+  background-color: transparent;
+  height: 6px;
+  left: 35px;
+  position: absolute;
+  top: 42px;
+  width: 25px;
+}
+.daydream .fill-57-s2rYGI {
+  background-color: transparent;
+  height: 30px;
+  left: 40px;
+  position: absolute;
+  top: 11px;
+  width: 17px;
+}
+.daydream .fill-58-s2rYGI {
+  background-color: transparent;
+  height: 4px;
+  left: 39px;
+  position: absolute;
+  top: 13px;
+  width: 5px;
+}
+.daydream .fill-59-s2rYGI {
+  background-color: transparent;
+  height: 0px;
+  left: 39px;
+  position: absolute;
+  top: 47px;
+  width: 0px;
+}
+.daydream .fill-6-AS6Jmq {
+  background-color: transparent;
+  height: 34px;
+  left: 73px;
+  position: absolute;
+  top: 35px;
+  width: 7px;
+}
+.daydream .fill-60-s2rYGI {
+  background-color: transparent;
+  height: 32px;
+  left: 29px;
+  position: absolute;
+  top: 16px;
+  width: 22px;
+}
+.daydream .fill-61-s2rYGI {
+  background-color: transparent;
+  height: 7px;
+  left: 34px;
+  position: absolute;
+  top: 26px;
+  width: 2px;
+}
+.daydream .fill-62-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 31px;
+  position: absolute;
+  top: 30px;
+  width: 3px;
+}
+.daydream .fill-63-s2rYGI {
+  background-color: transparent;
+  height: 2px;
+  left: 38px;
+  position: absolute;
+  top: 28px;
+  width: 3px;
+}
+.daydream .fill-64-s2rYGI {
+  background-color: transparent;
+  height: 5px;
+  left: 38px;
+  position: absolute;
+  top: 39px;
+  width: 6px;
+}
+.daydream .fill-65-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 37px;
+  position: absolute;
+  top: 25px;
+  width: 4px;
+}
+.daydream .fill-66-s2rYGI {
+  background-color: transparent;
+  height: 2px;
+  left: 30px;
+  position: absolute;
+  top: 26px;
+  width: 3px;
+}
+.daydream .fill-67-s2rYGI {
+  background-color: transparent;
+  height: 14px;
+  left: 34px;
+  position: absolute;
+  top: 14px;
+  width: 15px;
+}
+.daydream .fill-68-s2rYGI {
+  background-color: transparent;
+  height: 12px;
+  left: 27px;
+  position: absolute;
+  top: 15px;
+  width: 8px;
+}
+.daydream .fill-69-s2rYGI {
+  background-color: transparent;
+  height: 5px;
+  left: 46px;
+  position: absolute;
+  top: 26px;
+  width: 4px;
+}
+.daydream .fill-70-s2rYGI {
+  background-color: transparent;
+  height: 3px;
+  left: 48px;
+  position: absolute;
+  top: 28px;
+  width: 2px;
+}
+.daydream .fill-71-s2rYGI {
+  background-color: transparent;
+  height: 2px;
+  left: 28px;
+  position: absolute;
+  top: 18px;
+  width: 7px;
+}
+.daydream .fill-72-s2rYGI {
+  background-color: transparent;
+  height: 2px;
+  left: 27px;
+  position: absolute;
+  top: 20px;
+  width: 5px;
+}
+.daydream .fill-73-s2rYGI {
+  background-color: transparent;
+  height: 3px;
+  left: 34px;
+  position: absolute;
+  top: 17px;
+  width: 13px;
+}
+.daydream .fill-74-s2rYGI {
+  background-color: transparent;
+  height: 5px;
+  left: 35px;
+  position: absolute;
+  top: 18px;
+  width: 12px;
+}
+.daydream .fill-75-s2rYGI {
+  background-color: transparent;
+  height: 8px;
+  left: 34px;
+  position: absolute;
+  top: 18px;
+  width: 10px;
+}
+.daydream .fill-76-s2rYGI {
+  background-color: transparent;
+  height: 9px;
+  left: 27px;
+  position: absolute;
+  top: 23px;
+  width: 2px;
+}
+.daydream .fill-77-s2rYGI {
+  background-color: transparent;
+  height: 13px;
+  left: 40px;
+  position: absolute;
+  top: 14px;
+  width: 10px;
+}
+.daydream .fill-78-s2rYGI {
+  background-color: transparent;
+  height: 12px;
+  left: 44px;
+  position: absolute;
+  top: 25px;
+  width: 4px;
+}
+.daydream .fill-79-s2rYGI {
+  background-color: transparent;
+  height: 22px;
+  left: 46px;
+  position: absolute;
+  top: 12px;
+  width: 13px;
+}
+.daydream .fill-8-exFKkL {
+  background-color: transparent;
+  height: 57px;
+  left: 35px;
+  position: absolute;
+  top: 42px;
+  width: 93px;
+}
+.daydream .fill-80-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 37px;
+  position: absolute;
+  top: 34px;
+  width: 3px;
+}
+.daydream .fill-81-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 40px;
+  position: absolute;
+  top: 29px;
+  width: 2px;
+}
+.daydream .fill-82-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 31px;
+  position: absolute;
+  top: 31px;
+  width: 2px;
+}
+.daydream .fill-83-s2rYGI {
+  background-color: transparent;
+  height: 8px;
+  left: 29px;
+  position: absolute;
+  top: 28px;
+  width: 2px;
+}
+.daydream .fill-84-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 42px;
+  position: absolute;
+  top: 29px;
+  width: 2px;
+}
+.daydream .fill-85-s2rYGI {
+  background-color: transparent;
+  height: 1px;
+  left: 42px;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+.daydream .fill-86-s2rYGI {
+  background-color: transparent;
+  height: 4px;
+  left: 39px;
+  position: absolute;
+  top: 42px;
+  width: 1px;
+}
+.daydream .fill-87-s2rYGI {
+  background-color: transparent;
+  height: 46px;
+  left: 10px;
+  position: absolute;
+  top: 40px;
+  width: 52px;
+}
+.daydream .fill-88-s2rYGI {
+  background-color: transparent;
+  height: 13px;
+  left: 19px;
+  position: absolute;
+  top: 44px;
+  width: 7px;
+}
+.daydream .fill-89-s2rYGI {
+  background-color: transparent;
+  height: 19px;
+  left: 28px;
+  position: absolute;
+  top: 52px;
+  width: 4px;
+}
+.daydream .fill-90-s2rYGI {
+  background-color: transparent;
+  height: 39px;
+  left: 55px;
+  position: absolute;
+  top: 47px;
+  width: 16px;
+}
+.daydream .fill-91-s2rYGI {
+  background-color: transparent;
+  height: 5px;
+  left: 29px;
+  position: absolute;
+  top: 59px;
+  width: 30px;
+}
+.daydream .fill-92-s2rYGI {
+  background-color: transparent;
+  height: 4px;
+  left: 57px;
+  position: absolute;
+  top: 65px;
+  width: 10px;
+}
+.daydream .fill-93-s2rYGI {
+  background-color: transparent;
+  height: 9px;
+  left: 22px;
+  position: absolute;
+  top: 51px;
+  width: 4px;
+}
+.daydream .fill-96-s2rYGI {
+  background-color: transparent;
+  height: 0px;
+  left: 65px;
+  position: absolute;
+  top: 45px;
+  width: 0px;
+}
+.daydream .final-screens-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 339px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 10413px;
+  white-space: nowrap;
+  width: 328px;
+}
+.daydream .five-screens-are-use-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 413px;
+  letter-spacing: -0.13px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 13227px;
+  width: 945px;
+}
+.daydream .group-0LxH87 {
+  background-color: transparent;
+  height: 50px;
+  left: 4px;
+  position: absolute;
+  top: 0px;
+  width: 80px;
+}
+.daydream .group-13-C61RwL {
+  background-color: transparent;
+  height: 436px;
+  left: 78px;
+  position: absolute;
+  top: 1665px;
+  width: 191px;
+}
+.daydream .group-18-C61RwL {
+  background-color: transparent;
+  height: 606px;
+  left: 633px;
+  position: absolute;
+  top: 6855px;
+  width: 619px;
+}
+.daydream .group-185-AS6Jmq {
+  background-color: transparent;
+  height: 29px;
+  left: 243px;
+  position: absolute;
+  top: 48px;
+  width: 52px;
+}
+.daydream .group-2-Gt8yMX {
+  background-color: transparent;
+  height: 652px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 556px;
+}
+.daydream .group-2-Kz4HtW {
+  background-color: transparent;
+  height: 652px;
+  left: 119px;
+  position: absolute;
+  top: 10px;
+  width: 556px;
+}
+.daydream .group-5-xMAmZw {
+  background-color: transparent;
+  height: 92px;
+  left: 16px;
+  position: absolute;
+  top: 6px;
+  width: 80px;
+}
+.daydream .group-8-C61RwL {
+  background-color: transparent;
+  height: 138px;
+  left: 284px;
+  position: absolute;
+  top: 1977px;
+  width: 114px;
+}
+.daydream .growth-KUOc7U {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 5px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 104px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .growth-YtMeTm {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 67px;
+}
+.daydream .heading-1-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 506px;
+  letter-spacing: 0.19px;
+  line-height: 29px;
+  position: absolute;
+  text-align: left;
+  top: 9892px;
+  white-space: nowrap;
+  width: 353px;
+}
+.daydream .heading-2-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 507px;
+  letter-spacing: 0.13px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 9933px;
+  width: 250px;
+}
+.daydream .high-fidelity-wirefr-C61RwL {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 1000px;
+  letter-spacing: -0.15px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 5646px;
+  width: 354px;
+}
+.daydream .home-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1090px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 116px;
+}
+.daydream .iconography-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 842px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 7799px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .inactive-state-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 106px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 8184px;
+  width: 250px;
+}
+.daydream .input-field-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 938px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8782px;
+  width: 118px;
+}
+.daydream .iphone-C61RwL {
+  background-color: transparent;
+  height: 760px;
+  left: 625px;
+  position: absolute;
+  top: 15102px;
+  width: 1202px;
+}
+.daydream .it-can-be-used-at-an-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 98px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 3457px;
+  width: 339px;
+}
+.daydream .label-19UhTU {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-sanfranciscodisplay-bold);
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 146px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .label-pvgYHY {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 143px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .line-2-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: 1281px;
+  position: absolute;
+  top: 15907px;
+  width: 129px;
+}
+.daydream .line-39-C61RwL {
+  background-color: transparent;
+  height: 3px;
+  left: 39px;
+  position: absolute;
+  top: 15908px;
+  width: 331px;
+}
+.daydream .lock-6BEZxx {
+  background-color: transparent;
+  height: 19px;
+  left: 22px;
+  position: absolute;
+  top: 12px;
+  width: 15px;
+}
+.daydream .logo-C61RwL {
+  background-color: transparent;
+  height: 163px;
+  left: 166px;
+  position: absolute;
+  top: 533px;
+  width: 163px;
+}
+.daydream .logo-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 111px;
+  left: 66px;
+  position: absolute;
+  top: 49px;
+  width: 133px;
+}
+.daydream .low-fidelity-wirefra-C61RwL {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 133px;
+  letter-spacing: -0.15px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 5646px;
+  width: 263px;
+}
+.daydream .man-laying-down-C61RwL {
+  background-color: transparent;
+  height: 77px;
+  left: 21px;
+  position: absolute;
+  top: 6440px;
+  width: 375px;
+}
+.daydream .meditation-0LxH87 {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 75px;
+  white-space: nowrap;
+  width: 91px;
+}
+.daydream .meditation-SvXWM8 {
+  background-color: transparent;
+  height: 60px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.daydream .meditation-inactive-C61RwL {
+  background-color: transparent;
+  height: 103px;
+  left: 996px;
+  position: absolute;
+  top: 7956px;
+  width: 97px;
+}
+.daydream .meditation-inactive-VMr6Om {
+  background-color: transparent;
+  height: 95px;
+  left: 1001px;
+  position: absolute;
+  top: 8149px;
+  width: 91px;
+}
+.daydream .meditation-qN75mX {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  white-space: nowrap;
+  width: 97px;
+}
+.daydream .mid-fidelity-wirefra-copy-C61RwL {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 611px;
+  letter-spacing: -0.15px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 5646px;
+  width: 263px;
+}
+.daydream .mindfulness-is-a-way-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-regular);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 507px;
+  letter-spacing: 0.12px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 10032px;
+  width: 363px;
+}
+.daydream .mockup-C61RwL {
+  background-color: transparent;
+  height: 598px;
+  left: 1019px;
+  position: absolute;
+  top: 1352px;
+  width: 299px;
+}
+.daydream .mockup-QxM5SU {
+  background-color: transparent;
+  height: 598px;
+  left: 133px;
+  position: absolute;
+  top: 9623px;
+  width: 299px;
+}
+.daydream .mockup-VMr6Om {
+  background-color: transparent;
+  height: 598px;
+  left: 644px;
+  position: absolute;
+  top: 2680px;
+  width: 299px;
+}
+.daydream .mockup-copy-2-C61RwL {
+  background-color: transparent;
+  height: 516px;
+  left: 986px;
+  position: absolute;
+  top: 297px;
+  width: 258px;
+}
+.daydream .mockup-copy-3-C61RwL {
+  background-color: transparent;
+  height: 382px;
+  left: 1172px;
+  position: absolute;
+  top: 363px;
+  width: 191px;
+}
+.daydream .mockup-copy-5-C61RwL {
+  background-color: transparent;
+  height: 418px;
+  left: 1004px;
+  position: absolute;
+  top: 5753px;
+  width: 208px;
+}
+.daydream .mockup-copy-7-C61RwL {
+  background-color: transparent;
+  height: 418px;
+  left: 685px;
+  position: absolute;
+  top: 5960px;
+  width: 208px;
+}
+.daydream .mockup-copy-8-C61RwL {
+  background-color: transparent;
+  height: 418px;
+  left: 1122px;
+  position: absolute;
+  top: 5984px;
+  width: 208px;
+}
+.daydream .mockup-copy-C61RwL {
+  background-color: transparent;
+  height: 598px;
+  left: 985px;
+  position: absolute;
+  top: 2940px;
+  width: 299px;
+}
+.daydream .mockup-mzXdH9 {
+  background-color: transparent;
+  height: 418px;
+  left: 546px;
+  position: absolute;
+  top: 5753px;
+  width: 208px;
+}
+.daydream .night-tale-x23HNN {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 193px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .other-navigation-ico-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 370px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 8377px;
+  width: 244px;
+}
+.daydream .oval-C61RwL {
+  background-color: var(--black);
+  border-radius: 139px;
+  height: 139px;
+  left: 1010px;
+  position: absolute;
+  top: 9668px;
+  width: 139px;
+}
+.daydream .oval-Ix2nDy {
+  background-color: transparent;
+  height: 19px;
+  left: -1px;
+  position: absolute;
+  top: 8px;
+  width: 48px;
+}
+.daydream .oval-copy-10-uQAfei {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  position: absolute;
+  top: 33px;
+  width: 87px;
+}
+.daydream .oval-copy-11-uQAfei {
+  background-color: transparent;
+  height: 15px;
+  left: 24px;
+  position: absolute;
+  top: 0px;
+  width: 36px;
+}
+.daydream .oval-copy-12-uQAfei {
+  background-color: transparent;
+  height: 27px;
+  left: 9px;
+  position: absolute;
+  top: 12px;
+  width: 69px;
+}
+.daydream .oval-copy-2-exFKkL {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 5px;
+  left: 70px;
+  position: absolute;
+  top: 127px;
+  width: 5px;
+}
+.daydream .oval-copy-3-C61RwL {
+  background-color: var(--white);
+  border: 1.5px solid var(--black);
+  border-radius: 139px;
+  height: 139px;
+  left: 1194px;
+  position: absolute;
+  top: 9668px;
+  width: 139px;
+}
+.daydream .oval-copy-4-C61RwL {
+  background-color: #2bb6ab;
+  border-radius: 139px;
+  height: 139px;
+  left: 1014px;
+  position: absolute;
+  top: 10041px;
+  width: 139px;
+}
+.daydream .oval-copy-5-C61RwL {
+  background-color: #ed8080;
+  border-radius: 139px;
+  height: 139px;
+  left: 1010px;
+  position: absolute;
+  top: 9851px;
+  width: 139px;
+}
+.daydream .oval-copy-5-Ix2nDy {
+  background-color: transparent;
+  height: 21px;
+  left: 19px;
+  position: absolute;
+  top: 30px;
+  width: 61px;
+}
+.daydream .oval-copy-6-C61RwL {
+  background-color: #e6b8b8;
+  border-radius: 139px;
+  height: 139px;
+  left: 1198px;
+  position: absolute;
+  top: 9851px;
+  width: 139px;
+}
+.daydream .oval-copy-6-Ix2nDy {
+  background-color: transparent;
+  height: 12px;
+  left: 51px;
+  position: absolute;
+  top: 0px;
+  width: 26px;
+}
+.daydream .oval-copy-9-C61RwL {
+  background-color: #080531;
+  border-radius: 139px;
+  height: 139px;
+  left: 1198px;
+  position: absolute;
+  top: 10044px;
+  width: 139px;
+}
+.daydream .oval-copy-exFKkL {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 9px;
+  left: 79px;
+  position: absolute;
+  top: 119px;
+  width: 9px;
+}
+.daydream .oval-exFKkL {
+  background-color: var(--white);
+  border-radius: 163px;
+  height: 163px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 163px;
+}
+.daydream .oval-gsodaU {
+  background-color: #5ac8fa;
+  border-radius: 134px;
+  height: 134px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 134px;
+}
+.daydream .oval-uZNOgg {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 13px;
+  left: 86px;
+  position: absolute;
+  top: 105px;
+  width: 13px;
+}
+.daydream .path-10-copy-taB5r5 {
+  background-color: transparent;
+  height: 93px;
+  left: 34px;
+  position: absolute;
+  top: -4px;
+  width: 101px;
+}
+.daydream .path-10-taB5r5 {
+  background-color: transparent;
+  height: 118px;
+  left: -5px;
+  position: absolute;
+  top: -5px;
+  width: 128px;
+}
+.daydream .path-8-copy-3-C61RwL {
+  background-color: transparent;
+  height: 957px;
+  left: -5px;
+  position: absolute;
+  top: 197px;
+  width: 1446px;
+}
+.daydream .path-8-copy-4-C61RwL {
+  background-color: transparent;
+  height: 989px;
+  left: -5px;
+  position: absolute;
+  top: 198px;
+  width: 1446px;
+}
+.daydream .path-8-copy-5-C61RwL {
+  background-color: transparent;
+  height: 916px;
+  left: -3px;
+  position: absolute;
+  top: 199px;
+  width: 1444px;
+}
+.daydream .people-who-are-seeki-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 91px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 2739px;
+  width: 323px;
+}
+.daydream .plant-active-C61RwL {
+  background-color: transparent;
+  height: 125px;
+  left: 430px;
+  position: absolute;
+  top: 7937px;
+  width: 69px;
+}
+.daydream .plant-active-VMr6Om {
+  background-color: transparent;
+  height: 97px;
+  left: 430px;
+  position: absolute;
+  top: 8146px;
+  width: 67px;
+}
+.daydream .plus-Ck7EQp {
+  background-color: transparent;
+  height: 23px;
+  left: 38px;
+  position: absolute;
+  top: 15px;
+  width: 23px;
+}
+.daydream .problem-C61RwL {
+  background-color: transparent;
+  color: #e66565;
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 77px;
+  letter-spacing: -0.24px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 1476px;
+  white-space: nowrap;
+  width: 385px;
+}
+.daydream .profile-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1009px;
+  letter-spacing: -0.11px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 8384px;
+  width: 93px;
+}
+.daydream .prototype-usability-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 171px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 6986px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .rectangle-00LGpa {
+  background-color: transparent;
+  height: 68px;
+  left: 645px;
+  position: absolute;
+  top: 7786px;
+  width: 775px;
+}
+.daydream .rectangle-2P4qUJ {
+  background-color: transparent;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 2238px;
+  width: 1168px;
+}
+.daydream .rectangle-3kIbHG {
+  background-color: transparent;
+  height: 551px;
+  left: 0px;
+  position: absolute;
+  top: 12137px;
+  width: 967px;
+}
+.daydream .rectangle-6BEZxx {
+  background-color: var(--black);
+  border-radius: 13px;
+  height: 44px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 118px;
+}
+.daydream .rectangle-BPahYV {
+  background-color: transparent;
+  height: 565px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 264px;
+}
+.daydream .rectangle-C61RwL {
+  background-color: #cfe9e0;
+  height: 283px;
+  left: 0px;
+  position: absolute;
+  top: 15564px;
+  width: 1440px;
+}
+.daydream .rectangle-Ck7EQp {
+  background-color: var(--black);
+  border-radius: 13px;
+  height: 54px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 301px;
+}
+.daydream .rectangle-HlKRTo {
+  background-color: transparent;
+  height: 840px;
+  left: 0px;
+  position: absolute;
+  top: 5473px;
+  width: 1440px;
+}
+.daydream .rectangle-J1YQmd {
+  background-color: transparent;
+  height: 68px;
+  left: 0px;
+  position: absolute;
+  top: 4443px;
+  width: 505px;
+}
+.daydream .rectangle-KhCHue {
+  background-color: transparent;
+  height: 395px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 184px;
+}
+.daydream .rectangle-P4lFNG {
+  background-color: transparent;
+  height: 395px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 11px;
+  width: 184px;
+}
+.daydream .rectangle-QSZkpT {
+  background-color: #2bb6ab;
+  border-radius: 28px;
+  height: 503px;
+  left: 15px;
+  position: absolute;
+  top: 0px;
+  width: 229px;
+}
+.daydream .rectangle-QxM5SU {
+  background-color: transparent;
+  height: 372px;
+  left: 515px;
+  position: absolute;
+  top: 1780px;
+  width: 889px;
+}
+.daydream .rectangle-R7WrHk {
+  background-color: transparent;
+  height: 638px;
+  left: 77px;
+  position: absolute;
+  top: 10577px;
+  width: 316px;
+}
+.daydream .rectangle-RnxGh4 {
+  background-color: transparent;
+  height: 363px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 9px;
+  width: 169px;
+}
+.daydream .rectangle-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: 68px;
+  left: 1260px;
+  position: absolute;
+  top: 15859px;
+  width: 162px;
+}
+.daydream .rectangle-VkPPtx {
+  background-color: transparent;
+  height: 139px;
+  left: 0px;
+  position: absolute;
+  top: 6509px;
+  width: 974px;
+}
+.daydream .rectangle-YWzA7M {
+  background-color: transparent;
+  height: 734px;
+  left: 0px;
+  position: absolute;
+  top: 9551px;
+  width: 912px;
+}
+.daydream .rectangle-Ye91bq {
+  background-color: #e6b8b8;
+  border-radius: 16px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 364px;
+}
+.daydream .rectangle-a5WPlX {
+  background-color: transparent;
+  height: 829px;
+  left: 521px;
+  position: absolute;
+  top: 2792px;
+  width: 919px;
+}
+.daydream .rectangle-a73nmY {
+  background-color: transparent;
+  height: 501px;
+  left: 0px;
+  position: absolute;
+  top: 13178px;
+  width: 1440px;
+}
+.daydream .rectangle-copy-10-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 1053px;
+  position: absolute;
+  top: 11417px;
+  width: 316px;
+}
+.daydream .rectangle-copy-11-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 72px;
+  position: absolute;
+  top: 12440px;
+  width: 316px;
+}
+.daydream .rectangle-copy-12-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 393px;
+  position: absolute;
+  top: 12440px;
+  width: 316px;
+}
+.daydream .rectangle-copy-13-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 724px;
+  position: absolute;
+  top: 12440px;
+  width: 316px;
+}
+.daydream .rectangle-copy-13-VMr6Om {
+  background-color: transparent;
+  height: 638px;
+  left: 71px;
+  position: absolute;
+  top: 14259px;
+  width: 316px;
+}
+.daydream .rectangle-copy-14-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 1053px;
+  position: absolute;
+  top: 12440px;
+  width: 316px;
+}
+.daydream .rectangle-copy-15-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 72px;
+  position: absolute;
+  top: 13140px;
+  width: 316px;
+}
+.daydream .rectangle-copy-16-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 669px;
+  position: absolute;
+  top: 13587px;
+  width: 316px;
+}
+.daydream .rectangle-copy-17-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 1020px;
+  position: absolute;
+  top: 13587px;
+  width: 316px;
+}
+.daydream .rectangle-copy-18-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 393px;
+  position: absolute;
+  top: 14259px;
+  width: 316px;
+}
+.daydream .rectangle-copy-19-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 714px;
+  position: absolute;
+  top: 14259px;
+  width: 316px;
+}
+.daydream .rectangle-copy-2-C61RwL {
+  background-color: var(--deep-cerulean);
+  height: 11px;
+  left: 71px;
+  position: absolute;
+  top: 3025px;
+  width: 208px;
+}
+.daydream .rectangle-copy-20-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 1036px;
+  position: absolute;
+  top: 14259px;
+  width: 316px;
+}
+.daydream .rectangle-copy-21-QSZkpT {
+  background-color: transparent;
+  height: 489px;
+  left: 15px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 229px;
+}
+.daydream .rectangle-copy-3-C61RwL {
+  background-color: var(--deep-cerulean);
+  height: 11px;
+  left: 76px;
+  position: absolute;
+  top: 3412px;
+  width: 208px;
+}
+.daydream .rectangle-copy-4-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 398px;
+  position: absolute;
+  top: 10577px;
+  width: 316px;
+}
+.daydream .rectangle-copy-5-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 729px;
+  position: absolute;
+  top: 10577px;
+  width: 316px;
+}
+.daydream .rectangle-copy-6-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 1058px;
+  position: absolute;
+  top: 10577px;
+  width: 316px;
+}
+.daydream .rectangle-copy-7-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 72px;
+  position: absolute;
+  top: 11417px;
+  width: 316px;
+}
+.daydream .rectangle-copy-8-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 393px;
+  position: absolute;
+  top: 11417px;
+  width: 316px;
+}
+.daydream .rectangle-copy-9-C61RwL {
+  background-color: transparent;
+  height: 638px;
+  left: 724px;
+  position: absolute;
+  top: 11417px;
+  width: 316px;
+}
+.daydream .rectangle-copy-C61RwL {
+  background-color: transparent;
+  height: 327px;
+  left: 0px;
+  position: absolute;
+  top: 1435px;
+  width: 851px;
+}
+.daydream .rectangle-h9zUDF {
+  background-color: transparent;
+  height: 565px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 264px;
+}
+.daydream .rectangle-ksvukP {
+  background-color: transparent;
+  height: 565px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 264px;
+}
+.daydream .rectangle-mV6v3q {
+  background-color: transparent;
+  height: 565px;
+  left: 18px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 264px;
+}
+.daydream .rectangle-mzXdH9 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 70px;
+  left: 26px;
+  position: absolute;
+  top: 15866px;
+  width: 364px;
+}
+.daydream .rectangle-qr8e7q {
+  background-color: var(--deep-cerulean);
+  height: 11px;
+  left: 70px;
+  position: absolute;
+  top: 2692px;
+  width: 208px;
+}
+.daydream .rectangle-rv4aVI {
+  background-color: transparent;
+  height: 395px;
+  left: 12px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 184px;
+}
+.daydream .rectangle-rxvq3k {
+  background-color: transparent;
+  height: 672px;
+  left: 0px;
+  position: absolute;
+  top: 7786px;
+  width: 1440px;
+}
+.daydream .rectangle-x23HNN {
+  background-color: #172060;
+  border-radius: 16px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 364px;
+}
+.daydream .rectangle-xMAmZw {
+  background-color: #03b6ab;
+  border-radius: 16px;
+  height: 105px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 364px;
+}
+.daydream .rectangle-xsG1VZ {
+  background-color: transparent;
+  height: 395px;
+  left: 12px;
+  position: absolute;
+  top: 11px;
+  width: 185px;
+}
+.daydream .resum-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  font-weight: 400;
+  height: auto;
+  left: 1217px;
+  letter-spacing: 2.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: 161px;
+}
+.daydream .row-1-LwTxaJ {
+  background-color: transparent;
+  height: 45px;
+  left: -3px;
+  position: absolute;
+  top: -2px;
+  width: 349px;
+}
+.daydream .row-2-LwTxaJ {
+  background-color: transparent;
+  height: 45px;
+  left: -3px;
+  position: absolute;
+  top: 53px;
+  width: 349px;
+}
+.daydream .row-3-LwTxaJ {
+  background-color: transparent;
+  height: 45px;
+  left: -3px;
+  position: absolute;
+  top: 108px;
+  width: 349px;
+}
+.daydream .rows-C61RwL {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 176px;
+  left: 951px;
+  overflow: hidden;
+  position: absolute;
+  top: 8830px;
+  width: 343px;
+}
+.daydream .san-francisco-displa-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 495px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 9787px;
+  width: 300px;
+}
+.daydream .scan1-removebg-preview-2-C61RwL {
+  background-color: transparent;
+  height: 594px;
+  left: 133px;
+  position: absolute;
+  top: 5883px;
+  width: 420px;
+}
+.daydream .scan3-removebg-preview-C61RwL {
+  background-color: transparent;
+  height: 594px;
+  left: 0px;
+  position: absolute;
+  top: 5677px;
+  width: 420px;
+}
+.daydream .search-C61RwL {
+  background-color: transparent;
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 709px;
+  letter-spacing: -0.11px;
+  line-height: 21px;
+  position: absolute;
+  text-align: left;
+  top: 8382px;
+  width: 100px;
+}
+.daydream .search-field-C61RwL {
+  background-color: transparent;
+  height: 55px;
+  left: 642px;
+  position: absolute;
+  top: 8365px;
+  width: 55px;
+}
+.daydream .search-glyph-dxSZzJ {
+  background-color: transparent;
+  height: 30px;
+  left: 12px;
+  position: relative;
+  top: 13px;
+  width: 30px;
+}
+.daydream .secondary-button-C61RwL {
+  background-color: transparent;
+  height: 50px;
+  left: 113px;
+  position: absolute;
+  top: 8956px;
+  width: 343px;
+}
+.daydream .self-help-xMAmZw {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 186px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .semibold-medium-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 503px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 9827px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .shadow-Kz4HtW {
+  background-color: transparent;
+  height: 596px;
+  left: 0px;
+  position: absolute;
+  top: 164px;
+  width: 1202px;
+}
+.daydream .shape-KUOc7U {
+  background-color: transparent;
+  height: 85px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 69px;
+}
+.daydream .shape-L8IdqB {
+  background-color: transparent;
+  height: 30px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.daydream .shape-THmx8q {
+  background-color: transparent;
+  height: 20px;
+  left: 1px;
+  position: absolute;
+  top: 26px;
+  width: 42px;
+}
+.daydream .shape-X5HExb {
+  background-color: transparent;
+  height: 23px;
+  left: 11px;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+.daydream .since-mindfulness-fo-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 136px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 6530px;
+  width: 653px;
+}
+.daydream .sleep-1CFFIM {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 10px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  white-space: nowrap;
+  width: 51px;
+}
+.daydream .sleep-active-ydBKus {
+  background-color: transparent;
+  height: 52px;
+  left: 16px;
+  position: absolute;
+  top: 14px;
+  transform: rotate(32deg);
+  width: 67px;
+}
+.daydream .sleep-inactive-1CFFIM {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 69px;
+}
+.daydream .sleep-inactive-C61RwL {
+  background-color: transparent;
+  height: 103px;
+  left: 1188px;
+  position: absolute;
+  top: 8142px;
+  width: 69px;
+}
+.daydream .sleep-inactive-VMr6Om {
+  background-color: transparent;
+  height: 105px;
+  left: 1173px;
+  position: absolute;
+  top: 7952px;
+  width: 137px;
+}
+.daydream .sleep-ydBKus {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 20px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  white-space: nowrap;
+  width: 59px;
+}
+.daydream .solution-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 426px;
+  letter-spacing: -0.24px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 1801px;
+  white-space: nowrap;
+  width: 385px;
+}
+.daydream .space-float-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 969px;
+  position: absolute;
+  top: 9115px;
+  width: 364px;
+}
+.daydream .space-float-x23HNN {
+  background-color: transparent;
+  height: 86px;
+  left: 18px;
+  position: absolute;
+  top: 5px;
+  width: 101px;
+}
+.daydream .span1-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span1-8SRx8q {
+  font-style: normal;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+}
+.daydream .span1-fy8MDJ {
+  letter-spacing: 0.00px;
+}
+.daydream .span10-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span11-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span2-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span2-8SRx8q {
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.09px;
+  line-height: 14px;
+}
+.daydream .span2-fy8MDJ {
+  color: var(--chathams-blue);
+  font-family: var(--font-family-sanfranciscodisplay-medium);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.00px;
+}
+.daydream .span3-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span3-fy8MDJ {
+  letter-spacing: 0.00px;
+}
+.daydream .span4-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span4-fy8MDJ {
+  letter-spacing: 0.00px;
+}
+.daydream .span5-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span6-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span7-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span8-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .span9-3xV0eV {
+  letter-spacing: 0.00px;
+}
+.daydream .stories-PLjKt5 {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 13px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 81px;
+  white-space: nowrap;
+  width: 65px;
+}
+.daydream .stories-hnekYi {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 83px;
+  white-space: nowrap;
+  width: 70px;
+}
+.daydream .stories-inactive-C61RwL {
+  background-color: transparent;
+  height: 102px;
+  left: 603px;
+  position: absolute;
+  top: 7957px;
+  width: 90px;
+}
+.daydream .stories-inactive-VMr6Om {
+  background-color: transparent;
+  height: 103px;
+  left: 614px;
+  position: absolute;
+  top: 8141px;
+  width: 70px;
+}
+.daydream .table-background-LwTxaJ {
+  background-color: transparent;
+  border-radius: 10px;
+  height: 176px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 343px;
+}
+.daydream .thank-you-for-viewin-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 473px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 15315px;
+  width: 376px;
+}
+.daydream .the-app-will-have-a-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 90px;
+  letter-spacing: 0.67px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 3070px;
+  width: 323px;
+}
+.daydream .the-daydream-sign-in-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 423px;
+  letter-spacing: -0.13px;
+  line-height: 30px;
+  position: absolute;
+  text-align: center;
+  top: 11284px;
+  width: 602px;
+}
+.daydream .the-onboarding-scree-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 116px;
+  letter-spacing: -0.13px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 12198px;
+  width: 810px;
+}
+.daydream .the-prototypes-are-t-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 169px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 7072px;
+  width: 516px;
+}
+.daydream .the-space-float-x23HNN {
+  background-color: transparent;
+  font-weight: 700;
+  height: auto;
+  left: 164px;
+  letter-spacing: -0.14px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .the-visionboard-allo-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 77px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 14925px;
+  width: 962px;
+}
+.daydream .there-are-many-video-C61RwL {
+  background-color: transparent;
+  color: #6d050d;
+  font-family: var(--font-family-sanfranciscodisplay-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 243px;
+  letter-spacing: 0.13px;
+  line-height: 28px;
+  position: absolute;
+  text-align: left;
+  top: 1540px;
+  width: 373px;
+}
+.daydream .title-EBKMtP {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 16px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .title-YDxDGd {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 16px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .title-vJBK6I {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 16px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 11px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .ui-design-project-C61RwL {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-sanfranciscodisplay-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 142px;
+  letter-spacing: -0.24px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 366px;
+  width: 229px;
+}
+.daydream .ui-elements-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 268px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 8620px;
+  width: 328px;
+}
+.daydream .unlock-6BEZxx {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-sanfranciscodisplay-semibold);
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 45px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .unlock-C61RwL {
+  background-color: transparent;
+  height: 44px;
+  left: 501px;
+  position: absolute;
+  top: 8959px;
+  width: 118px;
+}
+.daydream .user-C61RwL {
+  background-color: transparent;
+  height: 46px;
+  left: 922px;
+  position: absolute;
+  top: 8370px;
+  width: 42px;
+}
+.daydream .user-flows-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 165px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 4456px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .user-stories-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 351px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 3837px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .visionboard-05ZVxg {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 91px;
+  white-space: nowrap;
+  width: 99px;
+}
+.daydream .visionboard-ApBBOT {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 0px;
+  letter-spacing: -0.43px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 85px;
+  white-space: nowrap;
+  width: 96px;
+}
+.daydream .visionboard-inactive-C61RwL {
+  background-color: transparent;
+  height: 106px;
+  left: 809px;
+  position: absolute;
+  top: 8138px;
+  width: 96px;
+}
+.daydream .visionboard-inactive-copy-C61RwL {
+  background-color: transparent;
+  height: 112px;
+  left: 803px;
+  position: absolute;
+  top: 7947px;
+  width: 99px;
+}
+.daydream .visualization-Ye91bq {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 182px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 45px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .waterfall-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 538px;
+  position: absolute;
+  top: 9115px;
+  width: 364px;
+}
+.daydream .what-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 69px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 2989px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .when-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 73px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 3376px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .when-clicked-on-dese-C61RwL {
+  background-color: transparent;
+  font-weight: 400;
+  height: auto;
+  left: 190px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: right;
+  top: 13901px;
+  width: 377px;
+}
+.daydream .who-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 73px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 2656px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .wireframes-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 891px;
+  letter-spacing: -0.19px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 5437px;
+  width: 263px;
+}
+.daydream .woman-browsing-C61RwL {
+  background-color: transparent;
+  height: 260px;
+  left: 1039px;
+  position: absolute;
+  top: 12103px;
+  width: 328px;
+}
+.daydream .women-with-a-thumps-up-C61RwL {
+  background-color: transparent;
+  height: 249px;
+  left: 97px;
+  position: absolute;
+  top: 15219px;
+  width: 376px;
+}
+.daydream .would-like-to-see-th-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 42px;
+  letter-spacing: -0.12px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 15874px;
+  width: 491px;
+}
+.daydream .x00000-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1039px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 9721px;
+  white-space: nowrap;
+  width: 81px;
+}
+.daydream .x01-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 57px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 1186px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x02-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1152px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 2478px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x03-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 63px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 3721px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x04-copy-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1146px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 5330px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x05-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 64px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 6658px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x06-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1138px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 7548px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x07-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 72px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 8514px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x08-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1145px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 9309px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x080531-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1226px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 10097px;
+  white-space: nowrap;
+  width: 81px;
+}
+.daydream .x09-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 64px;
+  letter-spacing: -1.60px;
+  line-height: 238px;
+  position: absolute;
+  text-align: center;
+  top: 10303px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x10-mins-xMAmZw {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 189px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x2-bb6-ab-C61RwL {
+  background-color: transparent;
+  font-weight: 600;
+  height: auto;
+  left: 1032px;
+  letter-spacing: -0.13px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 10094px;
+  white-space: nowrap;
+  width: 103px;
+}
+.daydream .x2895130-C61RwL {
+  background-color: transparent;
+  height: 260px;
+  left: 871px;
+  position: absolute;
+  top: 3915px;
+  width: 459px;
+}
+.daydream .x40-mins-x23HNN {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 198px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: auto;
+}
+.daydream .x45-mins-Ye91bq {
+  background-color: transparent;
+  font-weight: 500;
+  height: auto;
+  left: 198px;
+  letter-spacing: -0.12px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  top: 71px;
+  white-space: nowrap;
+  width: auto;
+}
